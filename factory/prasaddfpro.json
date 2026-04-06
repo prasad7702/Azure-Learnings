@@ -1,0 +1,9 @@
+{
+	"name": "prasaddfpro",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e73291ef-140a-4c5e-96a8-0cbd08fcda6c",
+		"tenantId": "d05e8d2e-bbc3-41eb-b040-079d9dfb68c0"
+	}
+}
