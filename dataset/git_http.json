@@ -1,0 +1,22 @@
+{
+	"name": "git_http",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "git_sales",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "prasad7702/Azure-Learnings/refs/heads/main/sales.csv"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
