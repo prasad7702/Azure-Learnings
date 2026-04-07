@@ -19,6 +19,9 @@
 				"startTime": "2026-04-07T09:59:00",
 				"timeZone": "India Standard Time",
 				"schedule": {
+					"minutes": [
+						0
+					],
 					"hours": [
 						1
 					]
