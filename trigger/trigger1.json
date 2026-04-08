@@ -9,6 +9,12 @@
 					"referenceName": "git_pipeline",
 					"type": "PipelineReference"
 				}
+			},
+			{
+				"pipelineReference": {
+					"referenceName": "meta_data_pipeline",
+					"type": "PipelineReference"
+				}
 			}
 		],
 		"type": "ScheduleTrigger",
