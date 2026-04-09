@@ -1,5 +1,6 @@
 {
 	"name": "git_sales",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
 		"type": "HttpServer",
